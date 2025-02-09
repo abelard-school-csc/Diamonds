@@ -13,6 +13,9 @@ Additionally, we follow up with:
 5. **What is the correlation between table and price?**
 6. **How does carat weight compare across different cut qualities?**
 
+## Source
+[seaborn-data by mwaskom | Github](https://github.com/mwaskom/seaborn-data)
+
 ## Findings
 
 ### 1. How does carat affect price?
